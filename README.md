@@ -1,13 +1,8 @@
 <!-- # maruti-admin -->
 <!-- Heading of Template -->
 <h1>
-  <a href="https://www.wrappixel.com/templates/maruti-admin/">Maruti Bootstrap Admin</a>
+  <a href="https://wrappixel.com/templates/maruti-admin"><b>Maruti Bootstrap Admin</b></a>
 </h1>
-
-<!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/maruti-bootstrap-admin-y.jpg">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/maruti-bootstrap-admin-y.jpg" />
-</a>
 
 <!-- Description of Template -->
 <p>
@@ -18,14 +13,14 @@
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/maruti-bootstrap-free/landingpage/index.html" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/bootstrap/maruti-bootstrap-free/landingpage/index.html</a>
+  Live Demo: <a href="https://bootstrapdemos.wrappixel.com/materialpro-bt-free/html/index.html" rel="nofollow">https://bootstrapdemos.wrappixel.com/materialpro-bt-free/html/index.html</a>
 </li>
 <li>
-    Download Page: <a href="https://www.wrappixel.com/templates/maruti-admin/" rel="nofollow">
-  https://www.wrappixel.com/templates/maruti-admin/</a>
+    Download Page: <a href="https://wrappixel.com/templates/maruti-admin" rel="nofollow">
+  <b>https://wrappixel.com/templates/maruti-admin</b></a>
 </li>
 <li>
-    <a href="https://www.wrappixel.com/templates/wrapkit/#demos" rel="nofollow">WrapKit </a>Complete UI Kit - For Website Projects
+    <a href="https://wrappixel.com/templates/wrapkit#demos" rel="nofollow"><b>WrapKit</b> </a>Complete UI Kit - For Website Projects
 </li>
 </ul>
 
@@ -33,23 +28,23 @@
 <h2>Licensing</h2>
 <ul>
   <li>
-    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
+    <p>Copyright 2021 Wrappixel (<a href="https://wrappixel.com" rel="nofollow"><b>https://wrappixel.com</b></a>)</p>
   </li>
   <li>
-    <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
+    <p>Licensed under MIT (<a href="https://wrappixel.com/license"><b>https://wrappixel.com/license</b></a>)</p>
   </li>
 </ul>
 
 <!-- Useful Links of Template -->
 <h2>Useful Links</h2>
 <ul>
-<li><a href="https://www.wrappixel.com/templates/category/admin-template/">Admin Dashboard Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/">Free Bootstrap Themes</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap 4 Admin Dashboard Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/angular-templates/">Angular Admin Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/react-templates/">React Products</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/">Vue Products</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/free-templates/">Free Templates</a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/admin-dashboard-templates"><b>Admin Dashboard Template</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com"><b>Free Bootstrap Themes</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/bootstrap-templates"><b>Bootstrap 4 Admin Dashboard Templates</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/angular-templates"><b>Angular Admin Template</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/react-templates"><b>React Products</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/vue-templates"><b>Vue Products</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/free-templates"><b>Free Templates</b></a> from WrapPixel</li>
 </ul>
 
 <!-- Social Media of Wrappixel -->
